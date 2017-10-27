@@ -1,0 +1,6 @@
+C:\Users\fishe\RiderProjects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+C:\Users\fishe\RiderProjects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+C:\Users\fishe\RiderProjects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csprojResolveAssemblyReference.cache
+C:\Users\fishe\RiderProjects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
+C:\Users\fishe\RiderProjects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+C:\Users\fishe\RiderProjects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
