@@ -1,0 +1,24 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Git.Settings">
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="vcs.Git" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
