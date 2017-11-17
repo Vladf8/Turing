@@ -10,5 +10,6 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="search.everywhere.settings" value="true" />
+    <entry key="actionSystem.fix.alt.gr" value="true" />
   </component>
 </application>
